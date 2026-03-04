@@ -5,6 +5,9 @@ Welcome to python-binance
 Automate interactions with Binance
 ----------------------------------
 
+Make sure you update often and check the `Changelog <https://python-binance.readthedocs.io/en/latest/changelog.html>`_ for new features and bug fixes.
+
+
 .. image:: https://img.shields.io/pypi/v/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
 
@@ -38,7 +41,7 @@ Here is the `Binance exchange <https://accounts.binance.com/register?ref=>`_.
 *Please make sure your* `python-binance` *version is* **v.1.0.20** *or higher.*
 *The previous versions are no longer recommended because some endpoints have been deprecated.*
 
-Source code
+Original Source code
   https://github.com/sammchardy/python-binance
 
 Documentation
@@ -55,8 +58,6 @@ Examples including async
 
 - `Async basics for Binance <https://sammchardy.github.io/binance/2021/05/01/async-binance-basics.html>`_
 - `Understanding Binance Order Filters <https://sammchardy.github.io/binance/2021/05/03/binance-order-filters.html>`_
-
-Make sure you update often and check the `Changelog <https://python-binance.readthedocs.io/en/latest/changelog.html>`_ for new features and bug fixes.
 
 Your contributions, suggestions, and fixes are always welcome! Don't hesitate to open a GitHub issue or reach out to us on our Telegram chat
 
