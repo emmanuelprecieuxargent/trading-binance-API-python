@@ -1,6 +1,9 @@
-=================================
-Welcome to python-binance v1.0.35
-=================================
+=========================
+Welcome to python-binance
+=========================
+
+Automate interactions with Binance
+----------------------------------
 
 .. image:: https://img.shields.io/pypi/v/python-binance.svg
     :target: https://pypi.python.org/pypi/python-binance
@@ -21,10 +24,9 @@ Welcome to python-binance v1.0.35
     :target: https://t.me/python_binance
 
 
-This is an unofficial Python wrapper for the `Binance exchange REST API v3 <https://binance-docs.github.io/apidocs/spot/en>`_.
+This is an _unofficial_ Python wrapper for the `Binance exchange REST API v3 <https://binance-docs.github.io/apidocs/spot/en>`_.
 
-If you came here looking for the `Binance exchange <https://accounts.binance.com/register?ref=PGDFCE46>`_ to purchase cryptocurrencies, then `go here <https://accounts.binance.com/register?ref=PGDFCE46>`_.
-If you want to automate interactions with Binance stick around.
+Here is the `Binance exchange <https://accounts.binance.com/register?ref=>`_.
 
 .. |ico1| image:: https://avatars.githubusercontent.com/u/31901609?s=48&v=4
     :target: https://github.com/ccxt/ccxt
